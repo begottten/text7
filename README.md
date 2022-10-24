@@ -127,5 +127,5 @@
 
 ## Список литературы
 
-1. https://megaobuchalka.ru/6/32099.html
-2. https://studbooks.net/1998708/informatika/tehnicheskie_sredstva_priemy_unichtozheniya_elektronnyh_dokumentov
+1. **[Megaobuchalka.ru](https://megaobuchalka.ru/6/32099.html)** 
+2. **[Studbooks.net](https://studbooks.net/1998708/informatika/tehnicheskie_sredstva_priemy_unichtozheniya_elektronnyh_dokumentov)**
